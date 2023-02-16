@@ -102,3 +102,4 @@ print ("Totaal retour: " + str(dagTotaalTerug))
 print ("In kassa:      " + str(inKassa))
 print ("============================")
 # Bon is klaar, toon totaal en reken af
+input = input("Druk op <ENTER> om het programma af te sluiten.") 
